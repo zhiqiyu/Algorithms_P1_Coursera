@@ -1,0 +1,4 @@
+*.pdf
+*/.vscode
+*/algs4.jar
+*/*.class
