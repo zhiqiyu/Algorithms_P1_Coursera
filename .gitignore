@@ -2,3 +2,5 @@
 */.vscode
 */algs4.jar
 */*.class
+*/*/algs4.jar
+*/*/*.class
